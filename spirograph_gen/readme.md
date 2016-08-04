@@ -15,4 +15,5 @@ The important parameters for spirograph generation are the radii of the two "gea
 Pillow, for image manipulation
 
 #Running
-use the command 
+use the command `python spiro.py` to randomly generate 6 spirographs. If you append this command with `--sparams <R> <r> <l>`
+substituting <R>, <r>, and <l> with your desired values, the single desired spirograph will be generated. At any time during the generation, you can press the  's' key to save the generated image as a png file
