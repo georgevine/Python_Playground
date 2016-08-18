@@ -17,3 +17,7 @@ Pillow, for image manipulation
 #Running
 use the command `python spiro.py` to randomly generate 6 spirographs. If you append this command with `--sparams R r l`
 substituting R, r, and l with your desired values, the single desired spirograph will be generated. At any time during the generation, you can press the  's' key to save the generated image as a png file
+
+
+#Example
+![alt text](https://github.com/georgevine/Python_Playground/raw/master/spirograph_gen/spiro-01Aug2016-142435.eps "Example")
